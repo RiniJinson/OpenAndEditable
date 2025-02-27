@@ -1,0 +1,8 @@
+Kaal Bhairava Memory Forensics Report
+Generated on: 27/02/2025 07:17:45
+
+Total Processes: 287
+Suspicious Processes: 0
+No rootkit detected.
+
+--- Suspicious Process List ---
